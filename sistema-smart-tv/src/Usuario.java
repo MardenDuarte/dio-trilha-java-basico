@@ -1,7 +1,7 @@
 public class Usuario {
     public static void main(String[] args) throws Exception {
         
-
+    
     SmartTv smartTv = new SmartTv();
 
     smartTv.diminuirVolume();
@@ -28,4 +28,5 @@ public class Usuario {
         System.out.println("Novo Status -> TV Ligada ?" + smartTv.ligada);
 
     }
+    
 }
