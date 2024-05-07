@@ -31,10 +31,10 @@ public class ContaTerminal {
 
         System.out.println("Cliente: " + nome + " " + sobrenome);
         System.out.println("Número da sua Agência: " + agenciaNome);
-        System.out.println("Número da conta unifcado: " + numeroConta);
+        System.out.println("Número da conta: " + numeroConta);
         System.out.println("Meu valor para deposito inicial é R$ " + saldoConta);
 
-        System.out.println("Olá " + nome + " " + sobrenome + " obrigado por criar uma conta em nosso banco TANA, sua agência é " + agenciaNome + " Conta " + numeroConta + " e seu saldo de R$ " + saldoConta + " já está disponivel para saque.");
+        System.out.println("Olá " + nome + " " + sobrenome + ", obrigado por criar uma conta em nosso banco TANA, sua agência é " + agenciaNome + ", Conta " + numeroConta + " e seu saldo de R$ " + saldoConta + " já está disponivel para saque.");
        
 
 
